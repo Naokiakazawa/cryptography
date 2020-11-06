@@ -1,4 +1,4 @@
-# cryptography
+# [WIP]cryptography
 
 This repository is famous cryptography implementation.
 
@@ -9,7 +9,7 @@ Don't use production environment.
 Please use only learning or reserching.
 
 ## Contents
-※In the making
+[WIP]
 
 - Caesar cipher
 - Shift cipher
