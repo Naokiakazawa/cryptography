@@ -15,3 +15,4 @@ Please use only learning or reserching.
 - Transposition cipher
 - Scytale cipher
 - vernam-cipher
+- Shamir's Secret Sharing
